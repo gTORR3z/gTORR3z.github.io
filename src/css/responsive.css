@@ -1,0 +1,96 @@
+@media(max-width: 425px) {
+
+    .titulo-pasta {
+        font-size: 40px;
+        justify-content: center;
+        margin-top: 0px;
+    }
+
+    .descricao-pasta {
+        font-size: 17px;
+        font-weight: 420;
+        margin-bottom: 0px;
+        padding-bottom: 0px;
+    }
+
+    .ver-mais { 
+        font-size: 15px;
+
+        margin-top: 12px;
+        padding: 2px 35px;
+        margin-bottom: 0px;
+    }
+
+    .fotos {
+        display: flex;
+        jusstify-content: center;
+        margin: 10px;
+        align-items: space-between;
+    }
+
+    .linha1 {
+        display: flex;
+        flex-direction: column;
+        align-items: space-around;
+        justify-content: space-around;
+    }
+
+    .linha2 {
+        display: flex;
+        flex-direction: column;
+        align-items: space-around;
+        justify-content: space-around;
+    }
+
+    .imagens {
+        background-color: #342800;
+        max-width: 150px;
+        max-height: 150px;
+        border-radius: 10px;
+        padding: 3px;
+        margin: 7px;
+    }
+
+    h2 {
+        font-size: 13px;
+        padding-top: 15px;
+        padding-bottom: 0px;
+        margin-bottom: 0px;
+        margin-top: 0px;
+    }
+
+    .casal {
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+
+        font-size: 25px;
+        margin-top: 3px;
+        margin-bottom: 0px;
+    }
+
+    .nome1 {
+        font-size: 22px;
+        font-weight: 250;
+
+        margin-top: 5px;
+        margin-bottom: 0%;
+        padding: 0px;
+    }
+
+    .coracao {
+        font-size: 21px;
+        font-weight: 250;
+
+        margin-top: 0px;
+        margin-bottom: 0px;
+        padding: 0px;
+    }
+
+    .nome2 {
+        font-size: 22px;
+        font-weight: 250;
+
+        margin-top: 0px;
+        padding: 0px;
+    }

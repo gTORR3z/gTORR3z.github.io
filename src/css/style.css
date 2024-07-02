@@ -1,0 +1,152 @@
+html {
+    background-color: #ffe5f0;
+}
+
+.info-pasta {
+    margin: 45px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.titulo-pasta { 
+    margin: 15px;
+    padding: 0 auto;
+
+    font-family: amatic sc;
+    font-size: 55px;
+    font-weight: 700;
+    color: #342800;
+}
+
+.descricao-pasta {
+    margin: 10px;
+    padding: 0px;
+    max-width: 520px;
+    border: flex;
+    flex-direction: center;
+    justify-content: center;
+    text-align: center;
+
+    font-family: rajdhani;
+    font-size: 22px;
+    font-weight: 400;
+    color: #342800;
+}
+
+.ver-mais {
+    margin-top: 30px;
+    margin-bottom: 20px;
+    padding: 5px 50px;
+    border-radius: 25px;
+
+    background-color: #342800;
+    color: #fff;
+    font-family: rajdhani;
+    font-size: 25px;
+    font-weight: 500;
+}
+
+.ver-mais:hover {
+    cursor: pointer;
+}
+
+.secao {
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    margin: 0px;
+    padding: 0px
+}
+
+.linha1 {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 0px;
+    margin-bottom: 50px;
+    margin-left: 15px;
+    margin-right: 15px;
+    padding: 10px;
+}
+
+.linha2 {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 0px;
+    margin-bottom: 50px;
+    margin-left: 15px;
+    margin-right: 15px;
+    padding: 10px;
+}
+
+.imagens {
+    background-color: #342800;
+    max-width: 316px;
+    max-height: 299px;
+    border-radius: 10px;
+    padding: 3px;
+}
+
+footer {
+    margin-top: 20px;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    color: #DAA520;
+    background-color: #46220f;
+}
+
+h2 {
+    padding-top: 15px;
+    padding-bottom: 0px;
+    font-family: rajdhani;
+    font-size: 17px;
+    font-weight: 700;
+    margin-bottom: 15px;
+    padding: 0px;
+}
+
+.casal {
+    display: flex;
+}
+
+.nome1 {
+    margin: 5px;
+    max-height: 300px;
+
+    font-family: playwrite AU TAS;
+    font-size: 35px;
+    font-weight: 100;
+
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.nome2 {
+    margin: 5px;
+    max-height: 300px;
+
+    font-family: playwrite AU TAS;
+    font-size: 35px;
+    font-weight: 100;
+
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.coracao {
+    margin: 5px;
+    max-height: 300px;
+
+    font-family: playwrite AU TAS;
+    font-size: 35px;
+    font-weight: 100;
+
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
